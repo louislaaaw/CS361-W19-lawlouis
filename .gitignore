@@ -333,3 +333,6 @@ ASALocalRun/
 
 # With database Connection String
 Web_deploy.config
+
+# Raw data text file
+lab2_data.txt
