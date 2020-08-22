@@ -334,5 +334,6 @@ ASALocalRun/
 # With database Connection String
 Web_deploy.config
 
-# Raw data text file
+# Raw data text file\
+lab1_data.txt
 lab2_data.txt
